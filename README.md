@@ -73,4 +73,4 @@ B.Tech Student | Artificial Intelligence & Data Science
 
 Interested in Python, Data Science, and building practical projects.
 
-- GitHub: [View My GitHub Profile](https://github.com/your-username)
+- GitHub: [View My GitHub Profile](https://github.com/dubeynaitik)
